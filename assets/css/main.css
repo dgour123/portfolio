@@ -1324,6 +1324,9 @@ section,
 }
 
 @media (max-width: 767px) {
+  .hero{
+        padding: 42px 0;
+  }
   .skills .skills-grid .skill-card {
     padding: 25px 20px;
   }
