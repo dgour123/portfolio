@@ -875,8 +875,8 @@ section,
 
 @media (max-width: 768px) {
   .about .profile-image-wrapper .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
   }
 }
 
