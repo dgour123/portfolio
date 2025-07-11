@@ -3193,3 +3193,8 @@ section,
     padding-left: 0;
     list-style: none;
 }
+span.plush {
+    font-weight: 700;
+    color: #065cc2;
+    font-size: 30px;
+}
